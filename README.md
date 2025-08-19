@@ -1,9 +1,9 @@
-# Hey there, I'm Pumink
+# Hey there, I'm Lexy
 
 ## About Me
 I am a professional coder, i do back end and front end stuff and more. Im currently working on project named as "Lexy Services" (https://lexyservices.vercel.app)
 
-My favorite thing: making npm modules or helping to others in. Includes projects!!
+My favorite thing: making websites, working on some projects.
 
 ![](https://hit.yhype.me/github/profile?user_id=227450521)
 
